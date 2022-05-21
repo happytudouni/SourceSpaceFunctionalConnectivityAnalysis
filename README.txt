@@ -1,6 +1,7 @@
-Please see 
+Please find the updated programs and scripts in the following repository:
+https://github.com/happytudouni/SourceSpaceFCAnalysis_DCN
 
-Some of the key matlab programs used in Xie et al. (2019)_BMC Medicine
+These are a few key matlab programs used in Xie et al. (2019)_BMC Medicine
 
 1. The "BaselineDataProcessing.m" is the program used to preprocess the raw EEG data.
 2. The "SourceSpaceFCanalysis.m" is the program used to do source-space FC analysis.
